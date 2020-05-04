@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/infinity-rental-server",
+  "port": "3900",
+  "requiresAuth": false
+}
