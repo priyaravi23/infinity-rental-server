@@ -4,3 +4,23 @@
 {"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server_tests...","timestamp":"2020-05-04T20:51:33.717Z"}
 {"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server_tests...","timestamp":"2020-05-04T20:51:33.773Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-04T20:51:34.042Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-04T23:14:55.721Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-04T23:14:55.747Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-05T00:25:37.208Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-05T00:25:37.250Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-05T05:44:26.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-05T05:44:26.863Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T00:48:51.867Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T00:49:37.139Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:13:01.085Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:18:48.343Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:31:18.049Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:34:51.985Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:36:58.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-06T01:36:58.373Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T01:45:31.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-06T01:45:31.968Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-06T23:49:34.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-06T23:49:34.705Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-05-07T03:06:04.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/infinity-rental-server...","timestamp":"2020-05-07T03:06:04.850Z"}

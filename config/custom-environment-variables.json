@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "infinity-rental-server_jwtPrivateKey"
+  "jwtPrivateKey": "infinity-rental-server_jwtPrivateKey",
+  "db": "infinity_rental_db"
 }
